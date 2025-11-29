@@ -1,0 +1,8 @@
+Corn ( Call On Random Number ) is the first linux function library I've
+ever attempted to make for public use.
+
+the test application usage is:
+corn <Max> <Iteration>
+
+the functions usage is:
+long int corn( long int max );

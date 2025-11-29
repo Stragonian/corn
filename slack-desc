@@ -1,0 +1,17 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.  Line
+# up the first '|' above the ':' following the base package name, and the '|'
+# on the right side marks the last column you can put a character in.  You must
+# make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':'.
+
+    |-----handy-ruler------------------------------------------------------|
+corn: corn ( Call On Random Number is a true random number generator )
+corn:
+corn: Corn is a small random number generator function written to utilize
+corn: the Linux /dev/urandom device. Written for Slackware Linux
+corn:
+corn: It requires the /dev/urandom device.
+corn:
+corn: By - Jerry Nettrouer II <j2@inpito.org>
+corn: Website - http://www.inpito.org/projects.php
